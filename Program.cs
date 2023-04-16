@@ -37,7 +37,12 @@ namespace Practise
             //FindSubstr.Find();
             //InsertSubString.insert();
             //MergeTwoSortArray.Merge();
-            CountFrequency.Count();
+            //CountFrequency.Count();
+            //ArrayMaxMin.FindMinMax();
+            //OddEvenArray.FindOddEven();
+            //Insert_Val_InArray.Inser_InArray();
+            //Insert_Value_UnsortedArray.Insert();
+            Delete_From_ArrayPosition.Delete();
 
 
             //string[] str = { "volvo", "tata", "bmw", "audi" };
